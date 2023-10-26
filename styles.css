@@ -11,9 +11,10 @@ html{
 
 body{
     background-image: url("./assets/Background.png");
-    background-size: 1960px;
+    background-size: 1500px;
     background-repeat: no-repeat;
-    background-position: -920px -250px;
+    background-position: -670px -120px;
+    background-attachment: fixed;
 }
 
 .container, .actor-main{
@@ -137,4 +138,38 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
+}
+
+iframe{
+    margin: 40px auto 0;
+    display: block;
+}
+.awards{
+    margin-top: 40px !important;
+    width:50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.awards p{
+    font-size: 24;
+    color: white;
+}
+
+.winner{
+    font-size: 20px;
+    color: #FF6427 !important;
+    margin-bottom: 50px;
+}
+.winner:last-of-type{
+    margin-bottom: 15px;
+}
+
+.trailers-title:first-of-type{
+    margin-top: 50px;
+}
+.trailers-title{
+    font-size:32px;
+    color: #FF6427;
+    text-align: center;
 }
