@@ -41,7 +41,6 @@ Suhtluskanalid:
 
 - Disaini täiustamine
 - Koodi alustamine
-- Wireframe
 - Readme
 
 **3.päev**
