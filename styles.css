@@ -11,8 +11,8 @@ html{
 
 body{
     background-image: url("./assets/Background.png");
-    background-size: 1500px;
     background-repeat: no-repeat;
+    background-size: 1500px;
     background-position: -670px -120px;
     background-attachment: fixed;
 }
@@ -37,6 +37,10 @@ body{
 
 .text-container{
     padding-top: 40px;
+}
+.text-container:last-child
+{
+    padding-top: 20px;
 }
 
 .text-container p{
@@ -172,4 +176,42 @@ iframe{
     font-size:32px;
     color: #FF6427;
     text-align: center;
+}
+.usa-canada{
+    width: 50%;
+    display:flex;
+}
+
+@media screen and (min-width: 824px)
+{
+    body{
+        background-size: 1500px;
+        background-position: 0 0;
+        overflow: hidden;
+    }
+    .container{
+        padding: 0;
+        height: 100%;
+    }
+    .text-container{
+        width: 50%;
+        margin: auto 0;
+    }
+    .text-container:last-of-type{
+        width: 30%;
+        padding: auto 0;
+    }
+    .text-container:last-of-type p{
+        font-size: 25px;
+    }
+    img{
+        width: 50%;
+    }
+    .info{
+        height: 100vh;
+        padding-bottom: 60px;
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
 }
