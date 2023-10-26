@@ -1,18 +1,25 @@
 *{
+    box-sizing: border-box;
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+html{
+    font-size: 20px;
 }
 
 body{
+    
     background-image: url("./assets/Background.png");
+    background-size: 1960px;
     background-repeat: no-repeat;
-    background-position-x: -700px;
+    background-position: -920px -250px;
 }
 
 .container{
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     background-color: rgba(0, 0, 0, .5);
     padding: 20px;
 }
@@ -26,4 +33,24 @@ body{
     display: flex;
     justify-content: center;
     padding-top: 20px;
+}
+
+.text-container{
+    padding-top: 40px;
+}
+
+.text-container p{
+    color: white;
+    margin-bottom: 20px;
+}
+
+.span-orange{
+    font-size: 22px;
+    color: #FF6427;
+}
+
+.money{
+    margin-top: -18px;
+    margin-bottom: -2px !important; 
+    font-size: 36px;
 }
