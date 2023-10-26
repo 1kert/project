@@ -33,6 +33,10 @@ body{
     justify-content: center;
     padding-top: 20px;
 }
+.index-title{
+    flex-direction: column;
+    align-items: center;
+}
 
 .text-container{
     padding: 40px 10px 10px;
@@ -130,12 +134,7 @@ body{
     width: 120px;
 }
 
-.more-info button{
-    display: block;
-    margin: 20px auto 10px;
-    width: 90%;
-    height: 80px;
-    
+button{
     border-radius: 13px;
     color: #FF6427;
     padding: 0 2px;
@@ -145,11 +144,20 @@ body{
     border-top: 0;
     border-right: 0;
     border-bottom: 3px solid black;
+}
+button:hover{
+    background:rgba(0, 0, 0, .75);
+}
+
+.more-info button{
+    display: block;
+    margin: 20px auto 10px;
+    width: 90%;
+    height: 80px;
+    
+    
     max-width: 340px;
     min-width: 273px;
-}
-.more-info button:hover{
-    background:rgba(0, 0, 0, .75);
 }
 .more-info{
     text-decoration: none !important;
@@ -199,6 +207,38 @@ iframe{
 }
 .no-wrap{
     text-wrap: nowrap;
+}
+#index{
+    background-image: url("assets/Background2.png");
+}
+.index-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+.button-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.button-container a{
+    margin-top: 10px;
+    display: inline-block;
+    width: 80%;
+    height: 60px;
+    text-decoration: none;
+    max-width: 440px;
+}
+.button-container button{
+    width: 100%;
+    height: 100%;
+    max-width: 440px;
+    font-size: 20px;
 }
 
 @media screen and (min-width: 824px)
@@ -292,5 +332,40 @@ iframe{
     .trailers-title:last-of-type{
         margin-top: 100px;
         
+    }
+    /* index */
+    /*  .button-container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        .button-container a{
+            display: inline-block;
+            width: 80%;
+            height: 60px;
+            text-decoration: none;
+        }
+        .button-container button{
+            width: 100%;
+            height: 100%;
+        }
+} */
+    .button-container{
+        flex-direction: row;
+        align-items: normal;
+        padding: 0 40px;
+    }
+    .button-container button{
+        font-size: 35px;
+    }
+    .button-container a{
+        height: 120px;
+    }
+    #producer{
+        width: 40%;
     }
 }
