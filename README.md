@@ -31,7 +31,7 @@ Suhtluskanalid:
 - Suhtluskanalite loomine
 - Lähteülesande selgitamine
 - Filmi valimine
-  ![Preview_Thumb_No_Alpha](https://github.com/1kert/project/assets/63167163/e6a7f548-db42-4ff7-bdeb-433d8503a1ec)
+- ![Preview_Thumb_No_Alpha](https://github.com/1kert/project/assets/63167163/e6a7f548-db42-4ff7-bdeb-433d8503a1ec)
 - Omavahel ülesannete jagamine
 - Disaini tegemine, mobiilivaade, algne desktop vaade
 
