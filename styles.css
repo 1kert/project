@@ -17,10 +17,9 @@ body{
     background-attachment: fixed;
 }
 
-.container, .actor-main{
+.container{
     width: 100vw;
-    height: 100%;
-    background-color: rgba(0, 0, 0, .5);
+    height: 100vh;
     padding: 20px;
 }
 
@@ -178,8 +177,11 @@ iframe{
     text-align: center;
 }
 .usa-canada{
-    width: 50%;
+    width: 100%;
     display:flex;
+}
+.no-wrap{
+    text-wrap: nowrap;
 }
 
 @media screen and (min-width: 824px)
@@ -187,11 +189,11 @@ iframe{
     body{
         background-size: 1500px;
         background-position: 0 0;
-        overflow: hidden;
+        overflow-x: hidden;
     }
     .container{
         padding: 0;
-        height: 100%;
+        
     }
     .text-container{
         width: 50%;
@@ -201,17 +203,17 @@ iframe{
         width: 30%;
         padding: auto 0;
     }
-    .text-container:last-of-type p{
-        font-size: 25px;
-    }
     img{
         width: 50%;
     }
     .info{
-        height: 100vh;
-        padding-bottom: 60px;
+        height: 90vh;
         display: flex;
         justify-content: space-between;
         width: 100%;
+        padding-left: 15px;
+    }
+    .usa-canada{
+        width: 50%;
     }
 }
