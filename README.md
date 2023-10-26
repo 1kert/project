@@ -34,6 +34,8 @@ Suhtluskanalid:
 - ![Preview_Thumb_No_Alpha](https://github.com/1kert/project/assets/63167163/e6a7f548-db42-4ff7-bdeb-433d8503a1ec)
 - Omavahel ülesannete jagamine
 - Disaini tegemine, mobiilivaade, algne desktop vaade
+- ![Kuvatõmmis 2023-10-26 103026](https://github.com/1kert/project/assets/63167163/d5a14190-c92d-4b4d-9b05-654aa5a08ae4)
+
 
 **2.päev**
 
