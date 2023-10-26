@@ -187,14 +187,11 @@ iframe{
 .winner:last-of-type{
     margin-bottom: 15px;
 }
-
-.trailers-title:first-of-type{
-    margin-top: 50px;
-}
 .trailers-title{
     font-size:32px;
     color: #FF6427;
     text-align: center;
+    margin-top: 50px;
 }
 .usa-canada{
     width: 100%;
@@ -269,5 +266,31 @@ iframe{
         width: 100%;
         max-height: none;
         max-width: none;
+    }
+
+    /* trailers */
+    .awards{
+        display: flex;
+        justify-content: space-between;
+        width:100%;
+        margin-bottom: 20px;
+    }
+    .awards p{
+        font-size: 50px;
+    }
+    .trailers{
+        width: 100%;
+        display:flex;
+    }
+    .trailers iframe{
+        width: 40%;
+    }
+    .trailers-title{
+        font-size: 80px;
+        margin-bottom:80px;
+    }
+    .trailers-title:last-of-type{
+        margin-top: 100px;
+        
     }
 }
