@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("./assets/Background.png");
+    background-repeat: no-repeat;
+    background-position-x: -700px;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .5);
+    padding: 20px;
+}
+
+.title{
+    display: block;
+    
+}
+
+.title-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
