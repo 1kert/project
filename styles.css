@@ -100,7 +100,7 @@ body{
     justify-content: space-between;
     align-items: center;
 }
-#cast-video video{
+#cast-video iframe{
     height: 400px;
     max-height: 342px;
     width: 345px;
