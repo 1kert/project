@@ -277,7 +277,9 @@ iframe{
     }
     .usa-canada{
         width: 50%;
+        gap: 10px;
     }
+    
 
     /* Cast */
     #actor-container{
