@@ -58,17 +58,17 @@ Suhtluskanalid:
 
 * ## Veebi kiirsu tulemus:
 - Esileht
-  ![image](https://github.com/1kert/project/assets/63167163/21c638a7-b541-4254-85cb-4b72f2b1eb58)
-  ![image](https://github.com/1kert/project/assets/63167163/7b41cb01-f682-484a-95c0-a5baa999ec6e)
+  * ![image](https://github.com/1kert/project/assets/63167163/21c638a7-b541-4254-85cb-4b72f2b1eb58)
+  * ![image](https://github.com/1kert/project/assets/63167163/7b41cb01-f682-484a-95c0-a5baa999ec6e)
 - Infoleht
-  ![image](https://github.com/1kert/project/assets/63167163/c972383b-b304-466b-8a16-b9e1d25d238a)
-  ![image](https://github.com/1kert/project/assets/63167163/44debe34-4c87-4b44-81ed-df41b024a179)
+  * ![image](https://github.com/1kert/project/assets/63167163/c972383b-b304-466b-8a16-b9e1d25d238a)
+  * ![image](https://github.com/1kert/project/assets/63167163/44debe34-4c87-4b44-81ed-df41b024a179)
 - Näitlejad
-  ![image](https://github.com/1kert/project/assets/63167163/c737a3a7-6a64-4a6f-a9a9-782975451c7e)
-  ![image](https://github.com/1kert/project/assets/63167163/db579c3c-f77e-4b37-bafa-ce4dbfde9348)
+  * ![image](https://github.com/1kert/project/assets/63167163/c737a3a7-6a64-4a6f-a9a9-782975451c7e)
+  * ![image](https://github.com/1kert/project/assets/63167163/db579c3c-f77e-4b37-bafa-ce4dbfde9348)
 - Trailerid ja auhinnad
-  ![image](https://github.com/1kert/project/assets/63167163/93a7c38c-6c33-4ddc-911f-c35636f0b1fc)
-  ![image](https://github.com/1kert/project/assets/63167163/8de43b09-4775-4216-8d28-f4e5f89ad75d)
+  * ![image](https://github.com/1kert/project/assets/63167163/93a7c38c-6c33-4ddc-911f-c35636f0b1fc)
+  * ![image](https://github.com/1kert/project/assets/63167163/8de43b09-4775-4216-8d28-f4e5f89ad75d)
 
 * ## Tööjaotus:
 * **Juhendamine:** Karl Andreas, Ketrin
