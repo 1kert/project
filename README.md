@@ -55,3 +55,28 @@ Suhtluskanalid:
 * **Visual Studio Code** (programmeerimine)
 * **Kasutatud keeled** HTML + CSS
 * **Figma** (disain)
+
+* ## Veebi kiirsu tulemus:
+* ![image](https://github.com/1kert/project/assets/63167163/b03b07e0-9552-417b-a932-6e5c42e275a1)
+* ![image](https://github.com/1kert/project/assets/63167163/b6639f94-9d8c-485a-8cec-25c8fc10fb27)
+* ![image](https://github.com/1kert/project/assets/63167163/22aabfd5-8bbe-4440-ae71-42b4cd796b6f)
+* ![image](https://github.com/1kert/project/assets/63167163/7ce8b02b-e6aa-49d6-a6f3-d3f65285cc66)
+
+  
+* ## Tööjaotus:
+* **Juhendamine:** Karl Andreas, Ketrin
+* **Kood:** Kert, Mathias, Silver
+* **Disain:** Emma Lotta, Jako
+* **Veebi testimine:** Kõik
+
+  
+* ## Küsimused tiimiliikmetele:
+* # Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+* - **Karl Andreas Mätlik** - Ei oleks.
+* - **Nimi** - Vastus
+* # Üks pehme oskus, mida õppisin/endas arendasin?
+* - **Karl Andreas Mätlik** - Tiimiga suhtlemine
+* - **Nimi** - Vastus
+* # Üks tehniline oskus, mida õppisin/endas arendasin?
+* - **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
+* - **Nimi** - Vastus
