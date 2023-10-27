@@ -46,6 +46,7 @@ Suhtluskanalid:
 **3.päev**
 
 - Viimistlus
+- Veebi kiiruse kontroll
 - Esitlus
 
 ## Kasutatud tarkvara:
