@@ -310,13 +310,15 @@ iframe{
 
     /* trailers */
     .awards{
-        display: flex;
-        justify-content: space-between;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 20px;
         width:100%;
         margin-bottom: 20px;
+        padding: 0 20px;
     }
     .awards p{
-        font-size: 50px;
+        font-size: 40px;
     }
     .trailers{
         width: 100%;
