@@ -76,13 +76,16 @@ Suhtluskanalid:
 * - **Jako Luik** - Rohkem osaleda html/css koodimises
 * - **Emma Lotta Rand** - Rohkem koodiga tegeleda.
 * - **Ketrin Vanatoa** - Ei.
+* - **Kert Mänd** - Ei.
 * ### Üks pehme oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Tiimiga suhtlemine
 * - **Jako Luik** - Tiimitöö
 * - **Emma Lotta Rand** - Meeskonnatöö
 * - **Ketrin Vanatoa** - Meeskonnatöö ning suhtlemisoskus.
+* - **Kert Mänd** - Meeskonnatöö.
 * ### Üks tehniline oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
 * - **Jako Luik** - Figma professionaalse tasandi saavutamine.
 * - **Emma Lotta Rand** - Figma kasutamine.
 * - **Ketrin Vanatoa** - Ma oskan nüüd veebilehte live panna 2 eri moodi.
+* - **Kert Mänd** - Git koostöö tegemine.
