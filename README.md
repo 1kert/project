@@ -72,20 +72,23 @@ Suhtluskanalid:
   
 * ## Küsimused tiimiliikmetele:
 * ### Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
-* - **Karl Andreas Mätlik** - Ei oleks.
-* - **Jako Luik** - Rohkem osaleda html/css koodimises
-* - **Emma Lotta Rand** - Rohkem koodiga tegeleda.
-* - **Ketrin Vanatoa** - Ei.
-* - **Kert Mänd** - Ei.
+- **Karl Andreas Mätlik** - Ei oleks.
+- **Jako Luik** - Rohkem osaleda html/css koodimises
+- **Emma Lotta Rand** - Rohkem koodiga tegeleda.
+- **Ketrin Vanatoa** - Ei.
+- **Kert Mänd** - Ei.
 * ### Üks pehme oskus, mida õppisin/endas arendasin?
-* - **Karl Andreas Mätlik** - Tiimiga suhtlemine
-* - **Jako Luik** - Tiimitöö
-* - **Emma Lotta Rand** - Meeskonnatöö
-* - **Ketrin Vanatoa** - Meeskonnatöö ning suhtlemisoskus.
-* - **Kert Mänd** - Meeskonnatöö.
+- **Karl Andreas Mätlik** - Tiimiga suhtlemine
+- **Jako Luik** - Tiimitöö
+- **Emma Lotta Rand** - Meeskonnatöö
+- **Ketrin Vanatoa** - Meeskonnatöö ning suhtlemisoskus.
+- **Kert Mänd** - Meeskonnatöö.
 * ### Üks tehniline oskus, mida õppisin/endas arendasin?
-* - **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
-* - **Jako Luik** - Figma professionaalse tasandi saavutamine.
-* - **Emma Lotta Rand** - Figma kasutamine.
-* - **Ketrin Vanatoa** - Ma oskan nüüd veebilehte live panna 2 eri moodi.
-* - **Kert Mänd** - Git koostöö tegemine.
+- **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
+- **Jako Luik** - Figma professionaalse tasandi saavutamine.
+- **Emma Lotta Rand** - Figma kasutamine.
+- **Ketrin Vanatoa** - Ma oskan nüüd veebilehte live panna 2 eri moodi.
+- **Kert Mänd** - Git koostöö tegemine.
+
+
+![image](https://github.com/1kert/project/assets/63167163/88a411b6-4da2-4872-ad74-d79f7c7caf56)
