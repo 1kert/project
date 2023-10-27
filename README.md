@@ -1,4 +1,4 @@
-# GRUPITÖÖ - Ametikooli Portfoolio
+# GRUPITÖÖ - Oppenheimeri leht
 25-27 oktoober 2023
 
 ## Lingid
@@ -7,7 +7,7 @@
 **Lehekülg** - [LINK](_)
 
 ## Projekti eesmärk
-Luua Portfoolio Kuressaare Ametikoolile 100. sünnipäeva puhul. 
+Luua Oppenheimeri filmi leht. 
 
 ## Grupi liikmed:
 **TAK - 21**
