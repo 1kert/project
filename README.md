@@ -74,7 +74,7 @@ Suhtluskanalid:
 * ### Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * - **Karl Andreas Mätlik** - Ei oleks.
 * - **Jako Luik** - Rohkem osaleda html/css koodimises
-* - **Emma Lotta Rand** - Rohkem koodiga tegelaeda.
+* - **Emma Lotta Rand** - Rohkem koodiga tegeleda.
 * ### Üks pehme oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Tiimiga suhtlemine
 * - **Jako Luik** - Tiimitöö
