@@ -73,10 +73,13 @@ Suhtluskanalid:
 * ## Küsimused tiimiliikmetele:
 * ### Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * - **Karl Andreas Mätlik** - Ei oleks.
+* - **Jako Luik** - Rohkem osaleda html/css koodimises
 * - **Nimi** - Vastus
 * ### Üks pehme oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Tiimiga suhtlemine
+* - **Jako Luik** - Tiimitöö
 * - **Nimi** - Vastus
 * ### Üks tehniline oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
+* - **Jako Luik** - Figma professionaalse tasandi saavutamine.
 * - **Nimi** - Vastus
