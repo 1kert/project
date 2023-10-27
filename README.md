@@ -74,12 +74,12 @@ Suhtluskanalid:
 * ### Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * - **Karl Andreas Mätlik** - Ei oleks.
 * - **Jako Luik** - Rohkem osaleda html/css koodimises
-* - **Nimi** - Vastus
+* - **Emma Lotta Rand** - Rohkem koodiga tegelaeda.
 * ### Üks pehme oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Tiimiga suhtlemine
 * - **Jako Luik** - Tiimitöö
-* - **Nimi** - Vastus
+* - **Emma Lotta Rand** - Meeskonnatöö
 * ### Üks tehniline oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
 * - **Jako Luik** - Figma professionaalse tasandi saavutamine.
-* - **Nimi** - Vastus
+* - **Emma Lotta Rand** - Figma kasutamine.
