@@ -71,12 +71,12 @@ Suhtluskanalid:
 
   
 * ## Küsimused tiimiliikmetele:
-* # Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+* ### Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * - **Karl Andreas Mätlik** - Ei oleks.
 * - **Nimi** - Vastus
-* # Üks pehme oskus, mida õppisin/endas arendasin?
+* ### Üks pehme oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Tiimiga suhtlemine
 * - **Nimi** - Vastus
-* # Üks tehniline oskus, mida õppisin/endas arendasin?
+* ### Üks tehniline oskus, mida õppisin/endas arendasin?
 * - **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
 * - **Nimi** - Vastus
