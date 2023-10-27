@@ -77,20 +77,20 @@ Suhtluskanalid:
 * **Veebi testimine:** Kõik
 
   
-* ## Küsimused tiimiliikmetele:
-* ### Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
+## Küsimused tiimiliikmetele:
+### Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 * **Karl Andreas Mätlik** - Ei oleks.
 * **Jako Luik** - Rohkem osaleda html/css koodimises
 * **Emma Lotta Rand** - Rohkem koodiga tegeleda.
 * **Ketrin Vanatoa** - Ei.
 * **Kert Mänd** - Ei.
-* ### Üks pehme oskus, mida õppisin/endas arendasin?
+### Üks pehme oskus, mida õppisin/endas arendasin?
 * **Karl Andreas Mätlik** - Tiimiga suhtlemine
 * **Jako Luik** - Tiimitöö
 * **Emma Lotta Rand** - Meeskonnatöö
 * **Ketrin Vanatoa** - Meeskonnatöö ning suhtlemisoskus.
 * **Kert Mänd** - Meeskonnatöö.
-* ### Üks tehniline oskus, mida õppisin/endas arendasin?
+### Üks tehniline oskus, mida õppisin/endas arendasin?
 * **Karl Andreas Mätlik** - Sain teada kuidas veebilehti paremini optimiseerida ja nende kiirust testida
 * **Jako Luik** - Figma professionaalse tasandi saavutamine.
 * **Emma Lotta Rand** - Figma kasutamine.
