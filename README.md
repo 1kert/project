@@ -4,7 +4,7 @@
 ## Lingid
 **Figma** - [LINK](https://www.figma.com/file/rP7Wjv9qlx3iOtJB7PnCfn/Oppenheimer?type=design&node-id=1%3A32&mode=design&t=xugtjtwAEdQNmLVR-1)
 
-**Lehekülg** - [LINK](https://tak23mand.itmajakas.ee/)
+**Lehekülg** - [LINK](#)
 
 ## Projekti eesmärk
 Luua Oppenheimeri filmi leht. 
